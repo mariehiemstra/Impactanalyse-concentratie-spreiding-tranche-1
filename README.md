@@ -1,1 +1,3 @@
-# Impactanalyse-concentratie-spreiding-tranche-1
+**Impactanalyse concentratie en spreiding - syntax in R**
+
+Dit betreft de syntax in R voor de resultaten van de kwantitatieve impactanalyse van het traject Concentratie en Spreiding MSZ tranche 1. Dit traject vond plaats tussen mei en december 2024 zoals afgesproken in het IZA, voor zeven oncologische en twee vaatchirurgische behandelingen. De syntax (het berekenmodel) is gedeeld met alle partijen in de regio (zorginstellingen, zorgverzekeraars en patiëntenvertegenwoordigers), zodat voor alle partijen inzichtelijk is hoe de impact is berekend door SiRM. De bronbestanden zijn in principe niet gedeeld met de partijen, omdat deze bedrijfsgevoelige gegevens van zorginstellingen bevatten. De zorginstellingen in de regio's kunnen kiezen om de brondata wel met elkaar te delen, zodat zij zelf (met behulp van deze syntax in R) de berekeningen kunnen updaten.
